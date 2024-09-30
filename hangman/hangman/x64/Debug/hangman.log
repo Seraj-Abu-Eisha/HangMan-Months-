@@ -1,0 +1,4 @@
+﻿  hangman.cpp
+C:\Users\ACER\source\repos\hangman\hangman\hangman.cpp(15,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ACER\source\repos\hangman\hangman\hangman.cpp(59,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  hangman.vcxproj -> C:\Users\ACER\source\repos\hangman\x64\Debug\hangman.exe
